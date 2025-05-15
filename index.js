@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: 'yourserver.aternos.me', // Aternos server IP
-    port: 12345,                    // Aternos port
+    host: 'CraftingEmpire.aternos.me', // Aternos server IP
+    port: 37608,                    // Aternos port
     username: 'Bot123'              // Any name (cracked mode only)
   });
 
